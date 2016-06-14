@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#F37254</color>
+    <color name="colorPrimaryDark">#F37254</color>
+    <color name="colorAccent">#F37254</color>
+    <color name="bm_color_four">#A9C722</color>
+    <color name="colorPrimaryLight">#F37254</color>
+</resources>
